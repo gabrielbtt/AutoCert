@@ -25,7 +25,7 @@ Uma aplicação moderna e intuitiva para geração automática de certificados p
 
 Clone o repositório:
 
-git clone https://github.com/gabrielbtt/Gerador-Certificados-V3.git
+git clone https://github.com/gabrielbtt/AutoCert.git
 cd Gerador-Certificados-V3
 
 Instale as dependências:
