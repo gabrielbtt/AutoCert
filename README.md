@@ -73,8 +73,8 @@ Recomenda-se usar uma conta de email com senha de aplicativo (Gmail).
 ## ❗ Problemas Conhecidos
 O aplicativo depende de fontes do Windows. Em outros sistemas operacionais, pode ser necessário adaptar o caminho das fontes.
 
-## 👨‍💻 Autor
-Desenvolvido por [Gabriel Batista]([https://www.linkedin.com/in/gabrielbtt/])
+## 👨‍💻 Autor  
+Desenvolvido por [Gabriel Batista](https://www.linkedin.com/in/gabrielbtt/)
 
 ## 📃 Licença
 Este projeto está licenciado sob a MIT License.
