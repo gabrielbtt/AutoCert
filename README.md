@@ -63,7 +63,7 @@ Maria Souza	maria@email.com	002
 
 ## Vídeo Tutorial
 
-[Assista ao tutorial completo](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[Assista ao tutorial completo](https://www.youtube.com/watch?v=ImA_r1pWFK0)
 
 ## 🔒 Segurança
 As credenciais são armazenadas localmente no arquivo config.ini;
