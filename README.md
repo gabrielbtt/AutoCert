@@ -21,6 +21,11 @@ Uma aplicação moderna e intuitiva para geração automática de certificados p
 - `tkinter` (interface gráfica base)
 - `configparser` (gerenciamento de configurações)
 
+## Imagens da Interface
+
+![Configurações](https://github.com/gabrielbtt/AutoCert/blob/main/docs/Config.png)
+![Design](https://github.com/gabrielbtt/AutoCert/blob/main/docs/Design.png)
+
 ## 📦 Instalação
 
 Clone o repositório:
@@ -55,6 +60,10 @@ A planilha .xlsx deve conter obrigatoriamente as seguintes colunas:
 Nome	Email	Numero do Certificado
 João da Silva	joao@email.com	001
 Maria Souza	maria@email.com	002
+
+## Vídeo Tutorial
+
+[Assista ao tutorial completo](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
 
 ## 🔒 Segurança
 As credenciais são armazenadas localmente no arquivo config.ini;
